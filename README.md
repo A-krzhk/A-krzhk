@@ -22,7 +22,6 @@
 
 ### Follow me
 
-<a href="#">[![Vkontakte](https://img.shields.io/badge/-Vkontakte-13021f?style=for-the-badge&logo=Vk)](https://vk.com/idoleras)</a>
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-13021f?style=for-the-badge&logo=Vk)](https://vk.com/idoleras)
 
-<a href="#">[![Telegram](https://img.shields.io/badge/-Telegram-13021f?style=for-the-badge&logo=Telegram)](https://t.me/idoleras)
-</a>
+[![Telegram](https://img.shields.io/badge/-Telegram-13021f?style=for-the-badge&logo=Telegram)](https://t.me/idoleras)
