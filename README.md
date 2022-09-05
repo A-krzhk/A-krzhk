@@ -20,4 +20,13 @@
 
 </div>
 
-Follow me
+### Follow me
+
+<div align="center">
+
+<a href="#">[![Vkontakte](https://img.shields.io/badge/-Vkontakte-13021f?style=for-the-badge&logo=Vkontakte)](https://vk.com/idoleras)</a>
+
+<a href="#">[![Telegram](https://img.shields.io/badge/-Telegram-13021f?style=for-the-badge&logo=Telegram)](https://t.me/idoleras)
+</a>
+
+</div>
