@@ -7,9 +7,9 @@
 <div align="center">
 
 <a href="#">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-<a href="#">![HTML5](https://img.shields.io/badge/-html5-13021f?style=for-the-badge&logo=html5&logoColor=ee8141)</a>
-<a href="#">![CSS3](https://img.shields.io/badge/-css3-13021f?style=for-the-badge&logo=css3&logoColor=2761e7)</a>
-<a href="#">![Webpack](https://img.shields.io/badge/-Webpack-13021f?style=for-the-badge&logo=Webpack&logoColor=#1b74b8)</a>
+<a href="#">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="#">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
+<a href="#">![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)</a>
 <a href="#">![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)</a>
 <a href="#">![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)</a>
 <a href="#">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
