@@ -6,16 +6,14 @@
 
 <div align="center">
 
-<a href="#">![javascript](https://img.shields.io/badge/-javascript-13021f?style=for-the-badge&logo=javascript&logoColor=f7e01d)</a>
-<a href="#">![HTML5](https://img.shields.io/badge/-html5-13021f?style=for-the-badge&logo=html5&logoColor=ee8141)
-</a>
-<a href="#">![CSS3](https://img.shields.io/badge/-css3-13021f?style=for-the-badge&logo=css3&logoColor=2761e7)
-</a>
-<a href="#">![Webpack](https://img.shields.io/badge/-Webpack-13021f?style=for-the-badge&logo=Webpack&logoColor=#1b74b8)
-</a>
-<a href="#">![Figma](https://img.shields.io/badge/-Figma-13021f?style=for-the-badge&logo=Figma)
-</a>
-<a href="#">![React](https://img.shields.io/badge/-React-13021f?style=for-the-badge&logo=React)
+<a href="#">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
+<a href="#">![HTML5](https://img.shields.io/badge/-html5-13021f?style=for-the-badge&logo=html5&logoColor=ee8141)</a>
+<a href="#">![CSS3](https://img.shields.io/badge/-css3-13021f?style=for-the-badge&logo=css3&logoColor=2761e7)</a>
+<a href="#">![Webpack](https://img.shields.io/badge/-Webpack-13021f?style=for-the-badge&logo=Webpack&logoColor=#1b74b8)</a>
+<a href="#">![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)</a>
+<a href="#">![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)</a>
+<a href="#">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
+<a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </a>
 
 </div>
@@ -24,7 +22,8 @@
 
 <div align="center">
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-13021f?style=for-the-badge&logo=Vk)](https://vk.com/idoleras)
-[![Telegram](https://img.shields.io/badge/-Telegram-13021f?style=for-the-badge&logo=Telegram)](https://t.me/idoleras)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-%231877F2.svg?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/idoleras)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idoleras)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79773031703?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B)
 
 </div>
