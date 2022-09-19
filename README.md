@@ -1,4 +1,4 @@
-![Header](https://github.com/A-krzhk/A-krzhk/blob/main/assets/NameGif.gif)
+![Header] Hi there
 
 ## I'm a beginner frontend developer
 
